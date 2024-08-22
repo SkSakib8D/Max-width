@@ -1,0 +1,24 @@
+.div{
+    width: 1000px;
+    margin: 0 auto;
+    border: 5px solid red;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+.div1{
+    max-width: 1000px;
+    margin: 0 auto;
+    border: 5px solid royalblue;
+    border-radius: 5px;
+    padding: 3px;
+}
+h1{
+    text-align: center;
+    background-color: red;
+    width: 1010px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    color: white;
+    border-radius: 5px;
+}
